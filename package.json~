@@ -1,0 +1,11 @@
+{
+  "name": "conquien-server",
+  "version": "0.0.1",
+  "description": "server side code for conquien card game",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Angel Romero",
+  "license": "ISC"
+}
